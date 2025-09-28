@@ -10,7 +10,7 @@
 
 - 평가 산식: macro f1-score  
 
-- 3rd out of 30 teams 🏆
+- 3rd out of 213 teams 🏆
 
 - 주최: 데이콘  
 ---
