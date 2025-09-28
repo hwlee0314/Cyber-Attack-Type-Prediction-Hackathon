@@ -1,5 +1,5 @@
 # 사이버 공격 유형 예측 해커톤: 트래픽 속 위협을 식별하라!
-[236502-1-518530.pdf](./236502-1-518530.pdf)
+[236502-1-518530.pdf](https://github.com/user-attachments/files/22584331/236502-1-518530.pdf)
 
 ### **2025-06-02 ~ 2025.07.31**
 ### [Competition Link](https://dacon.io/competitions/open/236502/overview/description)
