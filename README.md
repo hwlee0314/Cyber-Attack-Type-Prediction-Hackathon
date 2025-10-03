@@ -3,7 +3,7 @@
 # 사이버 공격 유형 예측 해커톤: 트래픽 속 위협을 식별하라!  
 
 ### **2025-06-02 ~ 2025.07.31**
-### [Competition Link](https://dacon.io/competitions/open/236502/overview/description)
+### [Competition & Data Link](https://dacon.io/competitions/open/236502/overview/description)
 - 사이버 위협 탐지 종류 예측 AI 알고리즘 개발
 - 네트워크 트래픽 데이터를 기반으로 각기 다른 사이버 공격 유형을 예측
 
@@ -36,10 +36,6 @@
 
 ```
 Dacon_Cyber_Attack_Type_Prediction_Hackathon/
-├── data/               
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
 ├── train.ipynb          
 ├── outputs/
 │   └── lgbm_kfold_submission_stop.csv
